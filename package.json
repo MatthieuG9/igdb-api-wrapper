@@ -1,0 +1,21 @@
+{
+  "name": "igdb-api-wrapper",
+  "version": "1.0.0",
+  "description": "Expose the IGDB API to any web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IGDB",
+    "API",
+    "Wrapper"
+  ],
+  "author": "MatthieuG9 (Matthieu Giraud)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "igdb-api-node": "^3.1.1"
+  }
+}
