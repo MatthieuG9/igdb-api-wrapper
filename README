@@ -1,0 +1,8 @@
+== IGDB Wrapper ==
+
+Une simple application Node Express qui permet d'exécuter des requètes sur l'api IGDB
+
+=== Exécution ===
+
+npm start
+
